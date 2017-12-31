@@ -1,0 +1,31 @@
+Copyright Dat HA 2017
+
+SuperReNameR
+
+***Why I wrote this script***
+This is a program made to rename multiple files more quickly.
+This software was first made for my father, a cameraman at a small piano recital.
+There, many students play their pieces and he would film them.
+Then once home, he would rename each file, one by one, to the student’s name and the order in which the student played.
+This was a long process and I wanted to make it shorter.
+
+***How it works***
+The working principle of this program is simple.
+Put the files to be renamed in a folder, put all the names in the text box and then run the script and it would rename all the files.
+
+***Instructions***
+Run the program.
+Put all files that you want in a directory
+Type in all the name in the text box, separate each name by a new-line.
+Choose the directory.
+When you are ready, press RENAME.
+
+***Features***
+-	The script features a safety feature which means that the script won’t rename the files if the number of names and the number of files don’t match.
+	This is meant to prevent errors like missing a file or a name.
+
+-	This script is also secure. No connection to the internet so you are sure your files are safe from any theft or spy that want your files.
+
+-	This program preserves the files format and doesn't mess with it.
+
+-	This program is very simple to use.
