@@ -61,8 +61,6 @@ def setDirectory():
         
 # create window
 window = tk.Tk()
-# set window size to 500 pixel by 500 pixel
-window.geometry("500x500")
 # set window title
 window.title("Super ReNameR")
 
